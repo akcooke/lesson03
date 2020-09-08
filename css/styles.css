@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/* Global Styles
+__________________________ */
+body {
+	color: #401E06;	
+}
+
+img {
+	width:300px;
+}
+a {
+	color: #C1BBDD;
+}
+a:hover {
+	text-decoration: none;
+}
+
+/* Profile
+__________________________ */
+header {
+	background: #dabfde;
+	color: #3D4849;
+}
+
+
+/* Work Experience
+__________________________ */
+.work-experience {
+	background: #c1e7e3;
+	color: #3D4849;
+}
+
+
+/* Education
+__________________________ */
+
+
+/* Contact Info
+__________________________ */
+footer {
+	background: #FFDCF4;
+	color: #3D4849;
+}
